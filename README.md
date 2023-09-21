@@ -11,10 +11,8 @@ Sistema para gestão comercial em java Desktop
   - Total de vendas por data
  - Relatórios (A ser implementado)
  - Login admin (acesso ilimitado)
-  - Login funcionário (acesso limitado)
-
-
-
+ - Login funcionário (acesso limitado) 
+    
 
 ## Instalação
 
@@ -31,8 +29,9 @@ Sistema para gestão comercial em java Desktop
 
  
 
-
-
-![2023-07-28 (12)](https://github.com/JoaoLlucaxs/ControleDeVendas_Desktop/assets/92184255/9593f5b0-d9e5-41aa-a744-6bda67b7dce3)
+## 📹 Apresentando o projeto
+<div align="center">
+  <video src="https://github.com/JoaoLlucaxs/JoaoLlucaxs/assets/92184255/e4b0fafd-c094-4e27-8c66-264738601ef3">
+</div>
 
 
