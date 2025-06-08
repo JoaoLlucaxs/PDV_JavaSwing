@@ -244,6 +244,7 @@ public class FuncionariosDAO {
                  
                  tela.setVisible(true);
                  tela.setLocationRelativeTo(null);
+                 tela.dispose();
                 }
                 
             }else{

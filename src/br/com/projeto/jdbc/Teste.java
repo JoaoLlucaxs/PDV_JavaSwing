@@ -10,6 +10,8 @@ public class Teste {
             JOptionPane.showMessageDialog(null, "Conectado com sucesso");
         }catch(Exception e){
             JOptionPane.showMessageDialog(null, "OPs ocorreu um erro,tente novamente");
+            JOptionPane.showMessageDialog(null, "Erro: " + e.getMessage());
+            e.printStackTrace();
         }
     }
 }
